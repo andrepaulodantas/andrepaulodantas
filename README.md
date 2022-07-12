@@ -25,7 +25,8 @@ const thai = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         Communication:  "English" (Professional working proficiency), 
-                                        "Portuguese" (fluent speaker),                              },
+                                        "Portuguese" (fluent speaker),                              
+                   },
  challenge: "I am doing the curse Alura focused on react, node and typescript"
 }
 ```
