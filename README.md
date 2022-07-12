@@ -24,7 +24,8 @@ const thai = {
   tools: [Redux, Styled-Components, Jest, Docker, Azure, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        Communication:  "English" (Professional working proficiency), "Portuguese" (fluent speaker),                              },
+                        Communication:  "English" (Professional working proficiency), 
+                                        "Portuguese" (fluent speaker),                              },
  challenge: "I am doing the curse Alura focused on react, node and typescript"
 }
 ```
