@@ -10,8 +10,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andrepaulodantas.andrepaulodantas)
 
-<br />
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
