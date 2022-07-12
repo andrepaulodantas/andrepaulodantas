@@ -1,8 +1,12 @@
 
 <h2>Hey 👋, I'm <a href="https://engdeveloper.com/">André</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.marinha.mil.br/casnav/">Brazilian Navy</a></strong>. I worked for seven years with Java Script, using React, Angular and NodeJS to develop naval systems and I worked with Python and Java on several projects, using Shell Script and MySQL and PostgreSQL databases.</p>
-<p><a href="https://engdeveloper.com/"><img src="labelColor=4E69C8&amp;logo=Firefox&amp;link=https://engdeveloper.com/" alt="Website"></a> 
-<a href="https://www.linkedin.com/in/andr%C3%A9-ara%C3%BAjo-msc-mit/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/andr%C3%A9-ara%C3%BAjo-msc-mit/" alt="LinkedIn Badge"></a></p>
+<a href="[https://www.instagram.com/abhisheknaiidu/](https://www.instagram.com/andrepaulodantas/)">
+  <img align="left" alt="André Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="www.linkedin.com/in/andré-araújo-msc-mit/">
+  <img align="left" alt="André LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
