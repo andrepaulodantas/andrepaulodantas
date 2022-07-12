@@ -20,12 +20,22 @@
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-browser-in-the-browser-(bitb)-attack---lies,-deceit,-and-css">The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---mixins">Why I Unit Test My Sass - Mixins — January 31, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---functions">Why I Unit Test My Sass - Functions — January 10, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/my-scrappy-way-of-getting-things-done">My Scrappy Way of Getting Things Done — December 17, 2021</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
