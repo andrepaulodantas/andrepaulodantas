@@ -12,27 +12,20 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🔭 I’m currently working on  <strong><a href="https://www.marinha.mil.br/casnav/">Brazilian Navy</a></strong>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>machine learning</strong>, <strong>React</strong>, <strong>NodeJS</strong>, <strong>TypeScript</strong> and a bit of <strong>cryptocurrencies</strong>.</li>
+<li>👨‍💻</li><li>📝</li><li>💬</li><li>📙</li><li>🎉</li>
 </ul>
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, React, NodeJS, PhP, Python, Java],
+  tools: [Redux, Styled-Components, Jest, Docker, Azure, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+                        Communication:  "English" (Professional working proficiency), "Portuguese" (fluent speaker),                              },
+ challenge: "I am doing the curse Alura focused on react, node and typescript"
 }
 ```
 
