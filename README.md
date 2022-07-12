@@ -1,4 +1,4 @@
-<img align='right' src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="230">
+<img align='right' src="[https://giphy.com/embed/bGgsc5mWoryfgKBx1u](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/)" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
