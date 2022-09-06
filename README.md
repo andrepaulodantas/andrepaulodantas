@@ -20,7 +20,7 @@
 ```javascript
 const engdeveloper = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, React, NodeJS, PhP, Python, Java],
+  code: [Javascript, Typescript, NextJS, NestJS, React, NodeJS, PhP, Python, Java],
   tools: [Redux, Styled-Components, Jest, Docker, Azure, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
