@@ -12,7 +12,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working with freelance>.</li>
+<li>🔭 I’m PhD Candidate.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>machine learning</strong>, <strong>React</strong>, <strong>NodeJS</strong>, <strong>TypeScript</strong> and a bit of <strong>cryptocurrencies</strong>.</li>
 <li>👨‍💻</li><li>📝</li><li>💬</li><li>📙</li><li>🎉</li>
 </ul>
