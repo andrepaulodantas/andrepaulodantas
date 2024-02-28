@@ -4,7 +4,7 @@
 <a href="[https://www.instagram.com/andrepaulodantas/](https://www.instagram.com/andrepaulodantas/)">
   <img align="left" alt="André Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="www.linkedin.com/in/andré-araújo-msc-mit/">
+<a href="https://www.linkedin.com/in/andr%C3%A9-ara%C3%BAjo-msc-mit/">
   <img align="left" alt="André LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
