@@ -1,7 +1,7 @@
 
 <h2>Hey 👋, I'm <a href="https://engdeveloper.com/">André</a> Phd Candidate, Computer Science</h2>
 <p>I'm PhD Candidate. I worked for eight years with Java Script, using React, Angular and NodeJS to develop systems on Brazil's navy and I worked with Python and Java on several projects, using Shell Script and MySQL and PostgreSQL databases on Brazil's navy as well.</p>
-<a href="[https://www.instagram.com/andrepaulodantas/](https://www.instagram.com/andrepaulodantas/)">
+<a href="https://www.instagram.com/andrepaulodantas/)">
   <img align="left" alt="André Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="[https://www.linkedin.com/in/andr%C3%A9-ara%C3%BAjo-msc-mit/] (https://www.linkedin.com/in/andr%C3%A9-ara%C3%BAjo-msc-mit/)">
